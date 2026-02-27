@@ -4,7 +4,7 @@
 
 **Team ID:** LTVIP2026TMIDS65711
 
-**Team Lead:** Bitragunta Komali
+**Team Lead:** Bitragunta Komali - Model Development
 
 **Team Members:**
 
